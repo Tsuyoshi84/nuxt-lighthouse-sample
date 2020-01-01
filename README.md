@@ -1,6 +1,6 @@
 # nuxt-lighthouse-sample
 
-> My praiseworthy Nuxt.js project
+Lighthouse CI を CircleCI で実行するためのデモプロジェクトです。
 
 ## Build Setup
 
