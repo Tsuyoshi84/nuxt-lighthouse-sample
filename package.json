@@ -15,5 +15,7 @@
     "nuxt": "^2.0.0",
     "nuxt-buefy": "^0.3.2"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@lhci/cli": "^0.3.7"
+  }
 }

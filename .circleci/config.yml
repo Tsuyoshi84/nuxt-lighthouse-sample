@@ -30,7 +30,6 @@ jobs:
             - v1-dependencies-
       - run: yarn install
       - run: yarn build
-      - run: sudo npm install -g @lhci/cli@0.3.x
       - run:
           name: lhci autorun
           command: yarn lhci || echo "LHCI failed!"
